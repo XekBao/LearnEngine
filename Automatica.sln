@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{1840CDA9-6CA8-40DF-A342-FF121D20EFD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Automatica", "Automatica\Automatica.vcxproj", "{33A5950D-1352-4535-82B9-6F03B450D587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A5950D-1352-4535-82B9-6F03B450D587}.Debug|x64.ActiveCfg = Debug|x64
+		{33A5950D-1352-4535-82B9-6F03B450D587}.Debug|x64.Build.0 = Debug|x64
+		{33A5950D-1352-4535-82B9-6F03B450D587}.Release|x64.ActiveCfg = Release|x64
+		{33A5950D-1352-4535-82B9-6F03B450D587}.Release|x64.Build.0 = Release|x64
+		{1840CDA9-6CA8-40DF-A342-FF121D20EFD5}.Debug|x64.ActiveCfg = Debug|x64
+		{1840CDA9-6CA8-40DF-A342-FF121D20EFD5}.Debug|x64.Build.0 = Debug|x64
+		{1840CDA9-6CA8-40DF-A342-FF121D20EFD5}.Release|x64.ActiveCfg = Release|x64
+		{1840CDA9-6CA8-40DF-A342-FF121D20EFD5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7760C23D-0871-41A7-8922-84A14541A294}
+	EndGlobalSection
+EndGlobal
